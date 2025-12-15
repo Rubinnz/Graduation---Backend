@@ -1,0 +1,217 @@
+[
+  {
+    "category": "introduction",
+    "sub_category": "administration",
+    "content": "Vietnam officially consists of 34 provincial-level units, including 28 provinces and 6 centrally-governed cities.",
+    "metadata": {
+      "region": null,
+      "site": null,
+      "type": "administrative_units",
+      "tags": ["provinces", "cities"]
+    }
+  },
+  {
+    "category": "introduction",
+    "sub_category": "ethnic_groups",
+    "content": "Vietnam has 54 ethnic groups contributing to its rich cultural heritage.",
+    "metadata": {
+      "region": null,
+      "site": null,
+      "type": "ethnic_diversity",
+      "tags": ["ethnic_groups", "culture"]
+    }
+  },
+
+  {
+    "category": "heritage",
+    "sub_category": "north",
+    "content": "Ha Long Bay is a UNESCO World Natural Heritage Site known for its limestone islands.",
+    "metadata": {
+      "region": "north",
+      "site": "Ha Long Bay",
+      "type": "natural_heritage",
+      "tags": ["UNESCO", "bay", "nature"]
+    }
+  },
+  {
+    "category": "heritage",
+    "sub_category": "north",
+    "content": "Hanoi holds historical sites such as Hoan Kiem Lake, Ho Chi Minh Mausoleum and the Imperial Citadel of Thang Long.",
+    "metadata": {
+      "region": "north",
+      "site": "Hanoi",
+      "type": "cultural_heritage",
+      "tags": ["UNESCO", "capital", "history"]
+    }
+  },
+  {
+    "category": "heritage",
+    "sub_category": "north",
+    "content": "Trang An Scenic Landscape Complex is a UNESCO Mixed Heritage Site known as 'Ha Long Bay on land'.",
+    "metadata": {
+      "region": "north",
+      "site": "Trang An",
+      "type": "mixed_heritage",
+      "tags": ["UNESCO", "nature"]
+    }
+  },
+  {
+    "category": "heritage",
+    "sub_category": "north",
+    "content": "Ha Giang features the Dong Van Karst Plateau Geopark and stunning terraced fields.",
+    "metadata": {
+      "region": "north",
+      "site": "Ha Giang",
+      "type": "geopark",
+      "tags": ["mountains", "geopark"]
+    }
+  },
+
+  {
+    "category": "heritage",
+    "sub_category": "central",
+    "content": "Hue Ancient Capital contains the Imperial Citadel and Nguyen Dynasty Tombs, recognized by UNESCO.",
+    "metadata": {
+      "region": "central",
+      "site": "Hue",
+      "type": "historical_heritage",
+      "tags": ["UNESCO", "imperial"]
+    }
+  },
+  {
+    "category": "heritage",
+    "sub_category": "central",
+    "content": "Hoi An Ancient Town is a UNESCO Heritage Site known for lantern festivals and ancient architecture.",
+    "metadata": {
+      "region": "central",
+      "site": "Hoi An",
+      "type": "cultural_heritage",
+      "tags": ["UNESCO", "lanterns"]
+    }
+  },
+  {
+    "category": "heritage",
+    "sub_category": "central",
+    "content": "Da Nang offers the Golden Bridge at Ba Na Hills and the beautiful My Khe Beach.",
+    "metadata": {
+      "region": "central",
+      "site": "Da Nang",
+      "type": "tourist_site",
+      "tags": ["bridge", "beach"]
+    }
+  },
+
+  {
+    "category": "heritage",
+    "sub_category": "south",
+    "content": "Ho Chi Minh City showcases French colonial architecture such as Notre Dame Cathedral.",
+    "metadata": {
+      "region": "south",
+      "site": "Ho Chi Minh City",
+      "type": "urban_heritage",
+      "tags": ["architecture", "colonial"]
+    }
+  },
+  {
+    "category": "heritage",
+    "sub_category": "south",
+    "content": "The Mekong Delta is known for Cai Rang Floating Market and Southern Folk Music (UNESCO Intangible Heritage).",
+    "metadata": {
+      "region": "south",
+      "site": "Mekong Delta",
+      "type": "floating_market",
+      "tags": ["UNESCO", "floating_market"]
+    }
+  },
+  {
+    "category": "heritage",
+    "sub_category": "south",
+    "content": "Phu Quoc Island features white-sand beaches and is ideal for diving and resorts.",
+    "metadata": {
+      "region": "south",
+      "site": "Phu Quoc",
+      "type": "island",
+      "tags": ["beach", "island"]
+    }
+  },
+
+  {
+    "category": "cuisine",
+    "sub_category": "national_dishes",
+    "content": "Pho is the iconic Vietnamese dish known for its rich broth.",
+    "metadata": {
+      "region": null,
+      "site": null,
+      "type": "dish",
+      "tags": ["pho", "cuisine"]
+    }
+  },
+  {
+    "category": "cuisine",
+    "sub_category": "national_dishes",
+    "content": "Banh Mi blends Western and Vietnamese flavors in a globally loved street food.",
+    "metadata": {
+      "region": null,
+      "site": null,
+      "type": "street_food",
+      "tags": ["banh_mi", "street_food"]
+    }
+  },
+  {
+    "category": "cuisine",
+    "sub_category": "national_dishes",
+    "content": "Bun Cha is a specialty of Northern Vietnam featuring grilled pork and dipping sauce.",
+    "metadata": {
+      "region": "north",
+      "site": null,
+      "type": "dish",
+      "tags": ["bun_cha", "grilled_pork"]
+    }
+  },
+  {
+    "category": "cuisine",
+    "sub_category": "coffee_culture",
+    "content": "Vietnam is a leading coffee exporter with unique traditions such as Egg Coffee from Hanoi.",
+    "metadata": {
+      "region": "north",
+      "site": "Hanoi",
+      "type": "beverage",
+      "tags": ["coffee", "egg_coffee"]
+    }
+  },
+
+  {
+    "category": "culture",
+    "sub_category": "craft_villages",
+    "content": "Vietnam is known for traditional craft villages such as Bat Trang Ceramics and Van Phuc Silk.",
+    "metadata": {
+      "region": null,
+      "site": null,
+      "type": "craft",
+      "tags": ["craft", "handmade"]
+    }
+  },
+  {
+    "category": "culture",
+    "sub_category": "performing_arts",
+    "content": "Water Puppetry is a unique Vietnamese folk theatre originating from the Northern Delta.",
+    "metadata": {
+      "region": "north",
+      "site": null,
+      "type": "performing_art",
+      "tags": ["water_puppetry", "folk_art"]
+    }
+  },
+
+  {
+    "category": "conclusion",
+    "sub_category": null,
+    "content": "Vietnam preserves its cultural and natural heritage while offering hospitality that leaves lasting impressions on visitors.",
+    "metadata": {
+      "region": null,
+      "site": null,
+      "type": "summary",
+      "tags": ["tourism", "culture"]
+    }
+  }
+]
